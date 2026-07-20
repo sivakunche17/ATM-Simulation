@@ -3,6 +3,7 @@
 A simple ATM simulation developed using Core Python.
 
 ## Features
+- pin confirmation
 - Balance enquiry
 - Deposit money
 - Withdraw money
